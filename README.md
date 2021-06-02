@@ -15,9 +15,6 @@ FEATURES ->
 :-    Users can review campgrounds once, and edit or remove their review
 
 
-:-    User profiles include more information on the user (full name, email), their campgrounds, and the option to edit their profile or delete their account
-
-
 :-    User can log in or signup using username and password and they can create their own campgrounds
 
 
